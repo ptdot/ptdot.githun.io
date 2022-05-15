@@ -1,1 +1,3 @@
-# proxies:
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">proxies:
+  - {name: VN2🇻🇳 (HN), server: vn2.playpn.cc, port: 80, type: vmess, uuid: eb03c9b0-7ce6-4af5-8d5a-65d16f5af503, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /playpn, headers: {Host: livestream2.tv360.vn}}, udp: true}
+  - {name: VN5🇻🇳  (HCM), server: vn5.playpn.cc, port: 80, type: vmess, uuid: eb03c9b0-7ce6-4af5-8d5a-65d16f5af503, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /playpn, headers: {Host: v.akamaized.net}}, udp: true}</pre></body></html>
